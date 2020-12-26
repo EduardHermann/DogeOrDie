@@ -12,7 +12,7 @@
 - **2.** extract the ".zip" file
 - **3.** open up the extracted folder of my game 
 - **4.** double click the "RUN.bat" file
-- !!!Attention, you need at least Java 1.8 in oder to start the programm and windows has to be installed on your pc!!!
+- !!!Attention, you need at least Java 1.8 in oder to correctly start the programm and windows has to be installed on your pc!!!
 
 ## What I have learned from this project
 
