@@ -2,7 +2,7 @@
 
 ## Description
 
-- This is a multiplayer/singleplayer game which allowes at most two player to race against each other in a battle where they both need to doge asteroids.
+- This is a multiplayer/singleplayer game which allows at most two player to race against each other in a battle where they both need to doge asteroids.
 - Whenever one player wins the game is automatically getting reseted and the player who won the round gets one point.
 - For more informations look up the "README.txt" file in my gamefolder.
 
