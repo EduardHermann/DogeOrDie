@@ -19,4 +19,4 @@
 - Object oriented programming
 - The basics of game design in Java
 - Java in general
-- The way programms are getting started
+- The way programs are getting started
