@@ -6,7 +6,7 @@
 - Whenever one player wins the game is automatically getting reseted and the player who won the round gets one point.
 - For more informations look up the "README.txt" file in my gamefolder.
 
-## How to start the programm
+## How to start the program
 
 - **1.** choose one of the two versions of my game
 - **2.** extract the ".zip" file
